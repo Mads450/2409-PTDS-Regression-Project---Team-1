@@ -1,4 +1,4 @@
-# 2401PTDS_Regression_Project
+# 2409PTDS_Regression_Project
 
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
@@ -92,8 +92,10 @@ pip install -r requirements.txt
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-|
-
+  Samukelisiwe Ndaba                                                                            SamukelisiweN2@nedbank.co.za 
+  Madelein Pretorius                                                                            MadeleinP@Nedbank.co.za
+  Boitumelo Modirapula                                                                          Boitumelomod@Nedbank.co.za
+  Tiny Patience Aleseng Kekana                                                                  tinyke@nedbank.co.za
 
 
 #### Additional Resources to create a README file:
